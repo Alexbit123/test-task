@@ -12,4 +12,5 @@
 
 # Стек технологий:
 1. C++17
-2. GStreamer
+2. STL
+3. GStreamer
